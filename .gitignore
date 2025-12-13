@@ -1,0 +1,7 @@
+# Python virtual environment
+python/venv/
+*.pyc
+__pycache__/
+
+# Node modules
+node_modules/
